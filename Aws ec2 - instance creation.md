@@ -1,5 +1,66 @@
 # Windows & Linux EC2 Server Creation
 
+## Managing an EC2 Instance
+
+AWS provides multiple options to manage an EC2 instance based on your requirement.
+
+### Stop Instance
+
+A stopped instance is powered off but not deleted.
+
+- The operating system and data stored in the EBS volume are preserved.
+- You can start the instance again whenever required.
+- Compute charges stop after the instance is stopped.
+- Storage (EBS) charges continue until the volume is deleted.
+
+> **Note:** If you are not using the EC2 instance, it is recommended to stop it. This helps avoid unnecessary compute charges and saves AWS credits.
+
+---
+
+### Start Instance
+
+A stopped instance can be started again.
+
+- The operating system and installed software remain unchanged.
+- Applications can continue from where they were left.
+- Compute charges resume once the instance starts running.
+
+---
+
+### Reboot Instance
+
+Reboot restarts the operating system without stopping the instance.
+
+- The instance remains available after the restart.
+- Installed applications and data are not affected.
+- Reboot is commonly used after software installation or system updates.
+
+---
+
+### Terminate Instance
+
+Terminate permanently deletes the EC2 instance.
+
+- The instance cannot be recovered after termination.
+- By default, the root EBS volume is also deleted.
+- Use this option only when the instance is no longer required.
+
+> **Warning:** Once an instance is terminated, all data stored on the instance will be lost unless it has been backed up using an AMI or EBS snapshot.
+
+---
+
+## Best Practice
+
+When you finish your practical sessions, always **Stop** the EC2 instance instead of leaving it in the **Running** state.
+
+This helps:
+
+- Save AWS Free Tier usage
+- Avoid unnecessary compute charges
+- Prevent AWS credits from being consumed
+- Manage cloud resources efficiently
+
+
 ## Introduction
 
 Windows EC2 is a virtual server provided by Amazon Web Services (AWS). It allows users to run Windows-based applications without purchasing physical hardware.
