@@ -116,6 +116,13 @@ The Windows EC2 server has been created successfully and is ready for software i
 <img width="1366" height="683" alt="Screenshot 2026-08-02 171949" src="https://github.com/user-attachments/assets/4b989ff5-533e-4d6d-95f0-e8fc478385e8" />
 <img width="1366" height="691" alt="Screenshot 2026-08-02 170056" src="https://github.com/user-attachments/assets/376a559e-b1a5-402c-b540-145fc83c8601" />
 <img width="1366" height="683" alt="Screenshot 2026-08-02 172007" src="https://github.com/user-attachments/assets/3b7912ea-8c0c-4eec-8214-511913ef8ef6" />
+<img width="1366" height="720" alt="Screenshot 2026-08-02 174141" src="https://github.com/user-attachments/assets/91e86fae-95c7-4307-ac4b-7342e11e072d" />
+<img width="1366" height="720" alt="Screenshot 2026-08-02 174202" src="https://github.com/user-attachments/assets/84bb4980-2cba-4182-93c7-51dfe40cdc1b" />
+<img width="1366" height="720" alt="Screenshot 2026-08-02 174309" src="https://github.com/user-attachments/assets/4cbb046e-8a21-4392-b522-fe1e15be98b0" />
+<img width="1366" height="720" alt="Screenshot 2026-08-02 174322" src="https://github.com/user-attachments/assets/b4a8ac3a-90e7-4614-8785-27369ccab926" />
+
+
+
 
 
 
