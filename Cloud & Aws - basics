@@ -1,0 +1,162 @@
+# AWS Cloud Basics
+
+## What is Cloud Computing?
+
+Cloud computing is the delivery of IT resources such as servers, storage, databases, networking, and software over the Internet. Instead of buying and maintaining physical infrastructure, users can access these resources on demand and pay only for what they use.
+
+---
+
+## Why Cloud Computing?
+
+Traditional IT infrastructure requires high investment, hardware maintenance, and long deployment time. Cloud computing solves these challenges by providing scalable, reliable, and cost-effective services.
+
+### Benefits
+
+- Pay only for the resources you use
+- Scale resources up or down easily
+- Fast deployment in minutes
+- High availability and reliability
+- Global infrastructure
+- Built-in security
+- Reduced maintenance
+
+---
+
+## Traditional IT vs Cloud
+
+| Traditional IT | Cloud Computing |
+|----------------|-----------------|
+| Buy physical servers | Use virtual resources |
+| High upfront cost | Pay as you use |
+| Manual scaling | Auto scaling |
+| Own maintenance | Managed by cloud provider |
+| Slow deployment | Quick deployment |
+
+---
+
+## Cloud Service Models
+
+### IaaS (Infrastructure as a Service)
+
+Provides virtual machines, storage, and networking. Users manage the operating system and applications.
+
+**Examples:** Amazon EC2, Amazon EBS
+
+---
+
+### PaaS (Platform as a Service)
+
+Provides a platform to build, test, and deploy applications without managing servers.
+
+**Example:** AWS Elastic Beanstalk
+
+---
+
+### SaaS (Software as a Service)
+
+Provides ready-to-use software over the Internet.
+
+**Examples:** Gmail, Microsoft 365, Google Drive
+
+---
+
+## Cloud Deployment Models
+
+- Public Cloud
+- Private Cloud
+- Hybrid Cloud
+- Multi Cloud
+
+---
+
+## AWS Global Infrastructure
+
+AWS delivers cloud services through:
+
+- Regions
+- Availability Zones (AZs)
+- Edge Locations
+
+This helps improve availability, fault tolerance, and low latency.
+
+---
+
+## AWS Core Services
+
+### Compute
+- Amazon EC2
+- AWS Lambda
+- Auto Scaling
+
+### Storage
+- Amazon S3
+- Amazon EBS
+- Amazon EFS
+
+### Database
+- Amazon RDS
+- Amazon DynamoDB
+- Amazon Aurora
+
+### Networking
+- Amazon VPC
+- Route 53
+- Elastic Load Balancer
+
+### Security
+- IAM
+- Security Groups
+- NACL
+- AWS KMS
+
+### Monitoring
+- Amazon CloudWatch
+- AWS CloudTrail
+
+---
+
+## AWS Well-Architected Framework
+
+AWS follows six design principles:
+
+- Operational Excellence
+- Security
+- Reliability
+- Performance Efficiency
+- Cost Optimization
+- Sustainability
+
+---
+
+## Shared Responsibility Model
+
+### AWS is responsible for:
+- Physical data centers
+- Networking
+- Hardware
+- Global infrastructure
+
+### Customer is responsible for:
+- IAM users and permissions
+- Operating System
+- Applications
+- Data
+- Security configuration
+
+---
+
+## Why AWS?
+
+- Global cloud leader
+- 200+ cloud services
+- High availability
+- Strong security
+- Scalable infrastructure
+- Cost-effective pricing
+- Trusted by startups and enterprises
+
+---
+
+## Summary
+
+AWS Cloud provides secure, scalable, and reliable cloud services that help individuals and organizations build, deploy, and manage applications efficiently while reducing infrastructure costs.
