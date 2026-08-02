@@ -4,19 +4,14 @@ This repository contains my hands-on AWS EC2 practice and projects completed dur
 
 ## Topics Covered
 
-- AWS Cloud Fundamentals
-- Cloud vs On-Premises
-- Advantages of AWS
-- IaaS, PaaS and SaaS
-- Amazon EC2 Introduction
+- Cloud Basics
+- EC2 Basics
 - Windows EC2 Instance
 - Linux EC2 Instance
 - Application Hosting
 - Static Website Hosting
 - Security Groups
 - Key Pairs
-- AMI (Amazon Machine Image)
-- EBS (Elastic Block Store)
 
 ## Repository Structure
 
